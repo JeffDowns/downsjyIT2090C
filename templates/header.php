@@ -28,7 +28,10 @@ session_start();
                         <input type="password" name="pass" placeholder="Password">
                         <button type="submit" name="submit">Login</button>
                         </form>
-                        <a href="signup.php">Sign Up!</a>';
+                        <div class="signup">
+                        <a href="signup.php">Sign Up now!!</a>
+                        </div>';
+                    
                     }
                         
                 ?>         
